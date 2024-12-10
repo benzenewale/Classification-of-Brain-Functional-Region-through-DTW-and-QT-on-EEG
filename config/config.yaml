@@ -1,0 +1,12 @@
+data:
+  preprocessed_path: "data/preprocessed/"
+  results_path: "data/results/"
+
+dtw:
+  threshold: 0.8
+
+qt:
+  similarity_threshold: 0.75
+
+map_scale:
+  scaling_factor: 0.9

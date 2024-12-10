@@ -1,0 +1,8 @@
+python 3.9
+mne
+numpy
+scipy
+matplotlib
+dtaidistance
+scikit-learn
+jupyter
